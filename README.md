@@ -40,7 +40,7 @@ This repository contains my completed tasks for the Data Science & Analytics Int
 - Evaluated using MAE and RMSE
 
 ***Results:***
-- MAE: ~$4,200 (average prediction error)
+- MAE: ~$4,260.99 (average prediction error)
 - Smoking increases insurance cost by ~$23,000 on average
 - Age and BMI also positively correlate with charges
 
