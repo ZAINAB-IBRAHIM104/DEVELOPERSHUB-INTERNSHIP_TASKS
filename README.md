@@ -26,7 +26,7 @@ This repository contains my completed tasks for the Data Science & Analytics Int
 - Found 3 flower species: Setosa, Versicolor, Virginica (50 samples each)
 - Setosa has the smallest petals, Virginica has the largest
 - No missing values in the dataset
-- Petal length and width are highly correlated (0.96)
+- Petal length and width are highly correlated 
 
 ***Technologies:*** pandas, matplotlib, seaborn
 
@@ -52,15 +52,14 @@ This repository contains my completed tasks for the Data Science & Analytics Int
 
 ***What I did:***
 - Handled missing data using median and mode imputation
-- Visualized key features (loan amount, income, education)
+- Visualized key features (loan approval)
 - Trained Logistic Regression and Decision Tree models
 - Evaluated using accuracy and confusion matrix
 
 ***Results:***
-- Model accuracy: ~78-82%
+- Model accuracy: ~98.75%
 - Credit history is the strongest predictor of loan approval
 - Higher applicant income increases approval chances
-- Education level has moderate influence
 
 ***Technologies:*** pandas, scikit-learn, matplotlib, seaborn
 
